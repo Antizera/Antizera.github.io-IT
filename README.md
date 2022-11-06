@@ -25,5 +25,5 @@ Web - страница с работами:  https://antizera.github.io/IT_Lab/
 
 Работа с Cisco Packet Tracer. 
 
-1. Отчет (https://github.com/S4NCHEZzzz/it_lab/blob/main/отчеты/Отчёт%204.pdf)
+1. Отчет (https://github.com/Antizera/IT_Lab/blob/main/%D0%9B%D0%A03/%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%9B%D0%A03.pdf)
 2. Сценарий (https://github.com/Antizera/IT_Lab/blob/main/%D0%9B%D0%A03/Stsenariy_3_dlya_CPT.pka)
