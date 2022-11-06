@@ -12,7 +12,7 @@
 
 5. Размещение странички на хостинге.
 
-Web - страница с работами: https://S4NCHEZzzz.github.io/it_lab/
+Web - страница с работами:  https://antizera.github.io/IT_Lab/
 
 # ✅ Лабораторная работа № 2
 
