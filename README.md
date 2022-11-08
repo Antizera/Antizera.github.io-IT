@@ -23,7 +23,7 @@ Web - страница с работами:  https://antizera.github.io/IT_Lab/
 Используемые языки программирования: С#, html, css, JavaScript
 Используемый фреймворк: ASP.NET Core MVC
 Используемые технологии Entity Framework Core
-
+https://github.com/S4NCHEZzzz/CorchShop
 
 # ✅ Лабораторная работа № 3
 
