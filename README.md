@@ -34,4 +34,5 @@ https://github.com/S4NCHEZzzz/CorchShop
 
 # ✅ Экзаменационные билет №10
 Ответ на экзаменационный билет доступен по ссылке: [билет №10](https://github.com/stankin/inet-2022/wiki/exam10-3)
+
 Индивидуальный реферат доступен по ссылке: последний [commit](https://github.com/stankin/inet-2022/wiki/exam10-3/_compare/9a30e6a30a0e1786a71f44dea344c666a721010f...c8fd9c1d76bc2d8808c74206745917ab0076ba5e)
