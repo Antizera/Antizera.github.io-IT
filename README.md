@@ -31,3 +31,7 @@ https://github.com/S4NCHEZzzz/CorchShop
 
 1. Отчет (https://github.com/Antizera/IT_Lab/blob/main/%D0%9B%D0%A03/%D0%9A%D0%BE%D0%BC%D0%B0%D1%80%D0%BE%D0%B2%D0%9B%D0%A03.pdf)
 2. Сценарий (https://github.com/Antizera/IT_Lab/blob/main/%D0%9B%D0%A03/Stsenariy_3_dlya_CPT.pka)
+
+# ✅ Экзаменационные билет №10
+Ответ на экзаменационный билет доступен по ссылке: [билет №10](https://github.com/stankin/inet-2022/wiki/exam10-3)
+Индивидуальный реферат доступен по ссылке: последний [commit](https://github.com/stankin/inet-2022/wiki/exam10-3/_compare/9a30e6a30a0e1786a71f44dea344c666a721010f...c8fd9c1d76bc2d8808c74206745917ab0076ba5e)
